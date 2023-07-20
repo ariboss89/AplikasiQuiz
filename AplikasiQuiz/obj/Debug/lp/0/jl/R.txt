@@ -1,0 +1,5 @@
+int raw pdfnet 0x0
+int raw pdftron_exotic_font_resources 0x0
+int raw pdftron_layout_resources 0x0
+int raw pdftron_smart_substitution 0x0
+int string app_name 0x0

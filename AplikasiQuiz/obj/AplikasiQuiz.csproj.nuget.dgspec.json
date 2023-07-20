@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ariramadhan/Projects/AplikasiQuiz/AplikasiQuiz/AplikasiQuiz.csproj": {}
+  },
+  "projects": {
+    "/Users/ariramadhan/Projects/AplikasiQuiz/AplikasiQuiz/AplikasiQuiz.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ariramadhan/Projects/AplikasiQuiz/AplikasiQuiz/AplikasiQuiz.csproj",
+        "projectName": "AplikasiQuiz",
+        "projectPath": "/Users/ariramadhan/Projects/AplikasiQuiz/AplikasiQuiz/AplikasiQuiz.csproj",
+        "packagesPath": "/Users/ariramadhan/.nuget/packages/",
+        "outputPath": "/Users/ariramadhan/Projects/AplikasiQuiz/AplikasiQuiz/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/ariramadhan/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid12.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid12.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid12.0": {
+          "dependencies": {
+            "PDFTron.Android": {
+              "target": "Package",
+              "version": "[10.1.0, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            },
+            "Xamarin.AndroidX.AppCompat": {
+              "target": "Package",
+              "version": "[1.2.0.5, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.7.6, )"
+            },
+            "Xamarin.Google.Android.Material": {
+              "target": "Package",
+              "version": "[1.0.0.1, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
