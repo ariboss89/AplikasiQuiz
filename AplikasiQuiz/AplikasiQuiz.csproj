@@ -90,6 +90,7 @@
     <Compile Include="Activities\AndroidReceiver.cs" />
     <Compile Include="Activities\HybridWebViewClient.cs" />
     <Compile Include="Activities\DownloadActivity.cs" />
+    <Compile Include="Activities\BantuanActivity.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
@@ -367,6 +368,14 @@
       <Generator></Generator>
     </AndroidResource>
     <AndroidResource Include="Resources\drawable\Ariq.jpeg">
+      <SubType></SubType>
+      <Generator></Generator>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\BantuanLayout.xml">
+      <SubType></SubType>
+      <Generator></Generator>
+    </AndroidResource>
+    <AndroidResource Include="Resources\drawable\bantuan.png">
       <SubType></SubType>
       <Generator></Generator>
     </AndroidResource>

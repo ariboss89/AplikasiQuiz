@@ -8,6 +8,7 @@
 /Users/ariramadhan/Projects/AplikasiQuiz/AplikasiQuiz/obj/Debug/MonoAndroid,Version=v12.0.AssemblyAttributes.cs
 /Users/ariramadhan/Projects/AplikasiQuiz/AplikasiQuiz/obj/Debug/build.props
 /Users/ariramadhan/Projects/AplikasiQuiz/AplikasiQuiz/obj/Debug/adb.props
+/Users/ariramadhan/Projects/AplikasiQuiz/AplikasiQuiz/obj/Debug/AplikasiQuiz.csproj.AssemblyReference.cache
 /Users/ariramadhan/Projects/AplikasiQuiz/AplikasiQuiz/obj/Debug/stamp/_BuildLibraryImportsCache.stamp
 /Users/ariramadhan/Projects/AplikasiQuiz/AplikasiQuiz/obj/Debug/res.flag
 /Users/ariramadhan/Projects/AplikasiQuiz/AplikasiQuiz/obj/Debug/lp/0/jl/files.cache
@@ -120,6 +121,8 @@
 /Users/ariramadhan/Projects/AplikasiQuiz/AplikasiQuiz/obj/Debug/res/layout/caraselamat_layout.xml
 /Users/ariramadhan/Projects/AplikasiQuiz/AplikasiQuiz/obj/Debug/res/layout/downloadwebview.xml
 /Users/ariramadhan/Projects/AplikasiQuiz/AplikasiQuiz/obj/Debug/res/drawable/ariq.jpeg
+/Users/ariramadhan/Projects/AplikasiQuiz/AplikasiQuiz/obj/Debug/res/layout/bantuanlayout.xml
+/Users/ariramadhan/Projects/AplikasiQuiz/AplikasiQuiz/obj/Debug/res/drawable/bantuan.png
 /Users/ariramadhan/Projects/AplikasiQuiz/AplikasiQuiz/obj/Debug/uploadflags.txt
 /Users/ariramadhan/Projects/AplikasiQuiz/AplikasiQuiz/obj/Debug/resolvedassemblies.hash
 /Users/ariramadhan/Projects/AplikasiQuiz/AplikasiQuiz/obj/Debug/android/assets/AplikasiQuiz.dll
@@ -270,6 +273,7 @@
 /Users/ariramadhan/Projects/AplikasiQuiz/AplikasiQuiz/obj/Debug/android/src/com/pdftron/pdfnet/R.java
 /Users/ariramadhan/Projects/AplikasiQuiz/AplikasiQuiz/obj/Debug/android/src/crc64085d8d1ae8dd2f02/Information_Adapter.java
 /Users/ariramadhan/Projects/AplikasiQuiz/AplikasiQuiz/obj/Debug/android/src/crc640b1684672e816fd2/AndroidReceiver.java
+/Users/ariramadhan/Projects/AplikasiQuiz/AplikasiQuiz/obj/Debug/android/src/crc640b1684672e816fd2/BantuanActivity.java
 /Users/ariramadhan/Projects/AplikasiQuiz/AplikasiQuiz/obj/Debug/android/src/crc640b1684672e816fd2/CaraSelamat.java
 /Users/ariramadhan/Projects/AplikasiQuiz/AplikasiQuiz/obj/Debug/android/src/crc640b1684672e816fd2/DetailInformationActivity.java
 /Users/ariramadhan/Projects/AplikasiQuiz/AplikasiQuiz/obj/Debug/android/src/crc640b1684672e816fd2/DownloadActivity.java
@@ -414,4 +418,3 @@
 /Users/ariramadhan/Projects/AplikasiQuiz/AplikasiQuiz/obj/Debug/stamp/_GenerateJavaStubs.stamp
 /Users/ariramadhan/Projects/AplikasiQuiz/AplikasiQuiz/obj/Debug/stamp/_GeneratePackageManagerJava.stamp
 /Users/ariramadhan/Projects/AplikasiQuiz/AplikasiQuiz/obj/Debug/stamp/_ResolveLibraryProjectImports.stamp
-/Users/ariramadhan/Projects/AplikasiQuiz/AplikasiQuiz/obj/Debug/AplikasiQuiz.csproj.AssemblyReference.cache

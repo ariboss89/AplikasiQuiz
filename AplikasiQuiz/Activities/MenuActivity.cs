@@ -42,6 +42,13 @@ namespace AplikasiQuiz.Activities
             linSoal.Click += LinSoal_Click;
             linProfil.Click += LinProfil_Click;
             linMateri.Click += LinMateri_Click;
+            linBantuan.Click += LinBantuan_Click;
+        }
+
+        private void LinBantuan_Click(object sender, EventArgs e)
+        {
+            Intent intent = new Intent(this, typeof(BantuanActivity));
+            StartActivity(intent);
         }
 
         private void LinMateri_Click(object sender, EventArgs e)

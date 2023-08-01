@@ -34,6 +34,7 @@ GridLayout;obj/Debug/res/layout/menu_layout.xml
 ImageView;obj/Debug/res/layout/addinformation_layout.xml
 ImageView;obj/Debug/res/layout/addquestion_layout.xml
 ImageView;obj/Debug/res/layout/admin_layout.xml
+ImageView;obj/Debug/res/layout/bantuanlayout.xml
 ImageView;obj/Debug/res/layout/caraselamat_layout.xml
 ImageView;obj/Debug/res/layout/detailinformation_layout.xml
 ImageView;obj/Debug/res/layout/download_layout.xml
@@ -57,6 +58,7 @@ item;obj/Debug/res/values/styles.xml
 LinearLayout;obj/Debug/res/layout/addinformation_layout.xml
 LinearLayout;obj/Debug/res/layout/addquestion_layout.xml
 LinearLayout;obj/Debug/res/layout/admin_layout.xml
+LinearLayout;obj/Debug/res/layout/bantuanlayout.xml
 LinearLayout;obj/Debug/res/layout/caraselamat_layout.xml
 LinearLayout;obj/Debug/res/layout/detailinformation_layout.xml
 LinearLayout;obj/Debug/res/layout/download_layout.xml
@@ -123,6 +125,7 @@ style;obj/Debug/res/values/styles.xml
 TextView;obj/Debug/res/layout/addinformation_layout.xml
 TextView;obj/Debug/res/layout/addquestion_layout.xml
 TextView;obj/Debug/res/layout/admin_layout.xml
+TextView;obj/Debug/res/layout/bantuanlayout.xml
 TextView;obj/Debug/res/layout/caraselamat_layout.xml
 TextView;obj/Debug/res/layout/content_main.xml
 TextView;obj/Debug/res/layout/detailinformation_layout.xml

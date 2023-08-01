@@ -1,37 +1,39 @@
 ﻿<Properties StartupConfiguration="{14278679-4721-48A5-90D7-D316CA24CF64}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="AplikasiQuiz/Resources/layout/profil_Layout.xml">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AplikasiQuiz AndroidDesignerPreferredTheme="AppTheme" PreferredExecutionTarget="Android.pixel_5_-_api_32" AndroidDesignerPreferredDevice="Nexus 5" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.2.0.0" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_32" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AplikasiQuiz/Activities/MenuActivity.cs">
     <Files>
-      <File FileName="AplikasiQuiz/Resources/layout/profil_Layout.xml" Line="93" Column="5" />
+      <File FileName="AplikasiQuiz/Resources/layout/BantuanLayout.xml" Line="63" Column="30" />
+      <File FileName="AplikasiQuiz/Activities/BantuanActivity.cs" Line="30" Column="1" />
+      <File FileName="AplikasiQuiz/Activities/MainInformationActivity.cs" Line="1" Column="1" />
+      <File FileName="AplikasiQuiz/Activities/MainSoalActivity.cs" Line="42" Column="35" />
+      <File FileName="AplikasiQuiz/Activities/MenuActivity.cs" Line="45" Column="50" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="AplikasiQuiz" expanded="True">
+          <Node name="AplikasiQuiz" expanded="True" selected="True">
             <Node name="AplikasiQuiz" expanded="True">
               <Node name="Activities" expanded="True" />
+              <Node name="Adapters" expanded="True" />
               <Node name="Resources" expanded="True">
-                <Node name="layout" expanded="True">
-                  <Node name="profil_Layout.xml" selected="True" />
-                </Node>
+                <Node name="drawable" expanded="True" />
+                <Node name="layout" expanded="True" />
+                <Node name="values" expanded="True" />
               </Node>
             </Node>
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.2.0.0" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/ariramadhan/Projects/AplikasiQuiz/AplikasiQuiz/Resources/layout/mainQuestion_Layout.xml" relfile="AplikasiQuiz/Resources/layout/mainQuestion_Layout.xml" line="65" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.AplikasiQuiz PreferredExecutionTarget="Android.pixel_5_-_api_32" AndroidDesignerPreferredDevice="Nexus 5" AndroidDesignerPreferredTheme="AppTheme" />
-  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_32" />
-  <MultiItemStartupConfigurations />
 </Properties>
